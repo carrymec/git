@@ -3,3 +3,4 @@ hello this is v1 commit
 hello this is v2 commit
 master second commit
 v3 first commit
+git push --set-upstream v3
