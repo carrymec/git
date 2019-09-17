@@ -15,7 +15,7 @@
 13. 将新分支提交的改动提交到主分支 git merge v1
 14. 如果有冲突 查看冲突 git diff
 15. 提交同上7
-16. 删除分支 git branch -d v1
+16. 删除分支 git branch -d v1 
 17. 远程分支 查看远程分支 git branch -r
 18. 将本地分支提交到远程仓库 git push origin v3(分支名)
 19. 切换到分支 git checkout v3
