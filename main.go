@@ -10,7 +10,7 @@ func main() {
 	m1 := make(map[string]interface{})
 	m1["ip"] = "127.0.0.1"
 	m["127.0.0.1"] = m1
-	m["127.0.0.2"] = m1
+	m["127.0.0.3"] = m1
 
 	var agents []string
 	for s, v := range m {
